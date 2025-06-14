@@ -20,7 +20,7 @@ return [
     'allowed_methods' => ['*'],
 
     //truy cap toi React js - fe
-    'allowed_origins' => ['http://localhost:3000'],
+    'allowed_origins' => ['http://localhost:5173'],
 
     'allowed_origins_patterns' => [],
 
